@@ -1,0 +1,121 @@
+
+Thank you for contacting Verizon repair support. My name is Basha.How may I assist you?
+
+I certainly undestand your concern. Let us work together to resolve the issue.
+
+Before we proceed further, may I know your full name and register e-mail address?
+
+Thank you for providing the information.
+
+If have I understood correctly, you are unable to login to e-mail account. Am I correct?
+
+May I know the e-mail address that you have an issue with?
+
+Have you tried to reset the password online?
+
+What is the error message you get while you try to login?
+
+Is the Capslock on or off?
+
+The Password is case sensitive and the account would be locked if you enter an incorrect password multiple times. Let's try resetting the password online. If it still does not work, I will be glad to reset the password and help you with the temporary password.
+
+The password would expire within 2 hours, hence request you to change the password once you sign in.
+
+
+Please open a new browser window, type www.verizon.net and hit enter.
+
+Enter the username and click on "Forgot password". This will take you to the next screen where you have to answer to the secret question which you have setup at the time of creating the account.
+
+Please click on "Apply" after answering the question. It will allow you to create a new password.
+
+
+I will go ahead and reset the password. Please try with the temporary password and check if you are able to login.
+
+I am glad to hear that.
+
+We at Verizon believe in customers satisfaction.
+
+Is there anything else I can help you with?
+
+
+Help is always available on your computer either at verizon.com or with in Home Agent on your TV by pressing menu on your Verizon remote to access customer support. Thank you for being a loyal Verizon customer.
+
+
+Have a great day!
+
+
+
+
+
+
+
+
+ 
+Thank you for contacting Verizon repair support. My name is Basha. How may I assist you?
+
+
+I definitely understand your concern. Let us work together to resolve the issue.
+
+Before we proceed further, may I know your full name and e-mail address for documentation purpose?
+
+Thank you for providing the information.
+
+
+If I understood correctly, you are not getting the speed you subscribed for. Am I correct?
+
+Are you using wired or wireless internet connection?
+
+May I know the number of devices you are using?
+
+Is it on one computer or all?
+
+May I know the browser you are using?
+
+Do you have any other browser installed on your computer?
+
+
+
+May I know if you have tried to use the game using Chrome?
+
+
+
+
+Thank you for all the information.
+
+
+This could be an issue with the browser. Let's try resetting the browser which will clear all the temporary files and the cache cookies to improve the speed while accessing the websites.
+
+
+
+
+Please open Internet Explorer and click on Tools >> Internet options >> General tab.
+
+
+Check the box against "Delete browsing history on exit" and click on "Apply".
+
+This will delete the temporary files stord in the computer.
+
+
+
+Please open Google Chrome and go to Options >> History and check all the options except "Delete saved password" and click on "Okay"
+
+
+
+Help is always available on your computer either at verizon.com or with in Home Agent on your TV by pressing menu on your Verizon
+remote to access customer support. Thank you for being a loyal Verizon customer. 
+
+
+Have a nice day!
+
+
+
+
+
+
+
+
+
+
+
+
+
